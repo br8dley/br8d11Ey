@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/br8dley/br8d11Ey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+dutch is a funny languge
+ (note to self translate this to dutch(Also find out words that look/sound funny is dutch) 
+chips ahoy cookies 
 - Bulleted
 - List
+My mother should give me a frost bite mountain dew because im bradley. 
+Cole smells kind of bad(yucky!) 
+Connor is okay i guess
+Kiki (my sister) is so,so better then cole at least.
+Bradley(Me) is pretty cool he shared his trick or treat candy with me which  saying i didnt share with anybody. 
 
-1. Numbered
-2. List
+connor says ¨bruh bruh bruh bruh bruh bruh bruhbruh bruh bruh bruh bruh bruh bruhbruh bruh bruh bruh  bruh bruh bruh bruh bruh bruhbruh bruh bruh bruh bruh bruh bruhbruh bruh bruh bruh bruh bruh bruh bruhbruh bruh bruh bruh bruh bruh bruh¨ he also he bad at rainbow six siege. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/br8dley/br8d11Ey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(reminder to set monkey images on here) (Also beans even though i dont like beans) 
