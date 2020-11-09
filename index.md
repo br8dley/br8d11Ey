@@ -15,3 +15,4 @@ bradley is cool -bradley
 
 
 (reminder to set monkey images on here) (Also beans even though i dont like beans) 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bostonherald.com%2F2020%2F05%2F24%2Fwill-runaway-monkey-become-the-next-goat%2F&psig=AOvVaw3QpRbZcgKoJ1IiwVEWORcd&ust=1605048881884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICC86fH9uwCFQAAAAAdAAAAABAP thats a monkey.
